@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/6f97204e44adbfff7e83c7525513adfb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/d6272ad5e9b12b980fbf3d0065f32a7e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/b38d3f75a6aee2544571906591636b93/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/2c1720a0b0626108f0f71cd5d6bcf2c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/1aa284829bf8d385f341daba6ded724b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/8355047ea9c7357e5903f2464b44578e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/3639403f12b2f3dfad6543352d3e2d88/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/ee50549d46716668f5d03470eb3821f2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/bac3e573897b7eed4b851d5c60967a26/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/6f97204e44adbfff7e83c7525513adfb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/6f97204e44adbfff7e83c7525513adfb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/d6272ad5e9b12b980fbf3d0065f32a7e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/d6272ad5e9b12b980fbf3d0065f32a7e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/b38d3f75a6aee2544571906591636b93/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/b38d3f75a6aee2544571906591636b93/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/2c1720a0b0626108f0f71cd5d6bcf2c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/2c1720a0b0626108f0f71cd5d6bcf2c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/1aa284829bf8d385f341daba6ded724b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/1aa284829bf8d385f341daba6ded724b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/8355047ea9c7357e5903f2464b44578e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/8355047ea9c7357e5903f2464b44578e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/3639403f12b2f3dfad6543352d3e2d88/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/3639403f12b2f3dfad6543352d3e2d88/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/ee50549d46716668f5d03470eb3821f2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/ee50549d46716668f5d03470eb3821f2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/bac3e573897b7eed4b851d5c60967a26/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/bac3e573897b7eed4b851d5c60967a26/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:11:9-40
+activity#rumo.info.appestoque.MainActivity
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:16:27-74
+activity#rumo.info.appestoque.Login
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:19:19-40
+activity#rumo.info.appestoque.TelaPrincipal
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:20:19-48
+activity#rumo.info.appestoque.IncluirProduto
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:21:9-52
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:21:19-49
+activity#rumo.info.appestoque.GerenciarProdutos
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:22:19-52
+activity#rumo.info.appestoque.EditarProduto
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:23:19-48
+activity#rumo.info.appestoque.Sobre
+ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml:24:19-40
+uses-sdk
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/6f97204e44adbfff7e83c7525513adfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/6f97204e44adbfff7e83c7525513adfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/d6272ad5e9b12b980fbf3d0065f32a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/d6272ad5e9b12b980fbf3d0065f32a7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/b38d3f75a6aee2544571906591636b93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/b38d3f75a6aee2544571906591636b93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/2c1720a0b0626108f0f71cd5d6bcf2c7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/2c1720a0b0626108f0f71cd5d6bcf2c7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/1aa284829bf8d385f341daba6ded724b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/1aa284829bf8d385f341daba6ded724b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/8355047ea9c7357e5903f2464b44578e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/8355047ea9c7357e5903f2464b44578e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/3639403f12b2f3dfad6543352d3e2d88/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/3639403f12b2f3dfad6543352d3e2d88/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/ee50549d46716668f5d03470eb3821f2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/ee50549d46716668f5d03470eb3821f2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/bac3e573897b7eed4b851d5c60967a26/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/bac3e573897b7eed4b851d5c60967a26/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+		ADDED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+		INJECTED from /home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/d6272ad5e9b12b980fbf3d0065f32a7e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/d6272ad5e9b12b980fbf3d0065f32a7e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/b38d3f75a6aee2544571906591636b93/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/b38d3f75a6aee2544571906591636b93/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/2c1720a0b0626108f0f71cd5d6bcf2c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/2c1720a0b0626108f0f71cd5d6bcf2c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/1aa284829bf8d385f341daba6ded724b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/1aa284829bf8d385f341daba6ded724b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/8355047ea9c7357e5903f2464b44578e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/8355047ea9c7357e5903f2464b44578e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/3639403f12b2f3dfad6543352d3e2d88/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/3639403f12b2f3dfad6543352d3e2d88/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/ee50549d46716668f5d03470eb3821f2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/ee50549d46716668f5d03470eb3821f2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/bac3e573897b7eed4b851d5c60967a26/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/bac3e573897b7eed4b851d5c60967a26/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.gradle/caches/transforms-2/files-2.1/698053f45b20ccd50c6a8cf86eb79744/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-2/files-2.1/e2a1ee0d5b4369ee2ce2cf48cc964603/AndroidManifest.xml:26:13-58

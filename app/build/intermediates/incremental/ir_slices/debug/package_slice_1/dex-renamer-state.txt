@@ -1,0 +1,4 @@
+#Fri May 10 14:42:06 BRT 2019
+base.0=/home/octavio/MEGAsync/AndroidStudioProjects/AppEstoque/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
